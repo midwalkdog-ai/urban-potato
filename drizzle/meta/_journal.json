@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1772973567521,
+      "tag": "0000_omniscient_night_nurse",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1772973606161,
+      "tag": "0001_silky_kinsey_walden",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1772974134546,
+      "tag": "0002_high_lethal_legion",
+      "breakpoints": true
+    }
+  ]
+}
